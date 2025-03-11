@@ -1,4 +1,4 @@
-## Hi there 👋
+## 대구과학 고등학교 1학년
 
 <!--
 **down-cold/down-cold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
